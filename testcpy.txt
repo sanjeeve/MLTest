@@ -1,7 +1,3 @@
 just adding something here
 v2
-<<<<<<< HEAD
-
-=======
 v3.1
->>>>>>> dev
